@@ -1,6 +1,4 @@
 provider "aws"{
-profile = "EKS_USER"
+profile = "devopsuser"
 region = "us-east-1"
-
-
 }
